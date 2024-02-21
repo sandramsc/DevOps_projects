@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -ap1 | sort -df | awk '{printf("%s%s",sep,/bin/bash); sep=","} END {print ""}'

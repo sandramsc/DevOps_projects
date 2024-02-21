@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# this prints "Best school" 10times
+i=10
+until [ $i ==  0 ];
+do
+	echo "Best School"
+	((i--))
+done
