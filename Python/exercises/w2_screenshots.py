@@ -1,0 +1,1 @@
+print("I'm Sandra, on a programming journey to becoming an expert at python")
