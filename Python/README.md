@@ -7,7 +7,7 @@
 
 ## Application Description
 
-This repository contains programs written for the python for everybody course by Dr. Charles Severance at [University of Michigan](https://www.coursera.org/specializations/python?skipBrowseRedirect=true).
+This repository contains programs written to gain practical experience in Python.
 
 ## Technologies
 * Python 3
