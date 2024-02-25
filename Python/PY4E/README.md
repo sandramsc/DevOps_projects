@@ -1,5 +1,5 @@
 <!-- PROJECT TITLE -->
-  <h1 align="center">Python Prgramming</h1>
+  <h1 align="center">PY4E course</h1>
 
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/KAq5w47R9rmTuvWOWa/200.webp?cid=ecf05e4795ziriy79so2c0f1ey8azdrs6l4jds9njfqffcd6&ep=v1_gifs_related&rid=200.webp&ct=g" width="250"/>
