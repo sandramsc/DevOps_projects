@@ -1,5 +1,5 @@
 <!-- PROJECT TITLE -->
-  <h1 align="center">Bash scripting</h1>
+  <h1 align="center">AWS</h1>
 
 ## Application Description
 
