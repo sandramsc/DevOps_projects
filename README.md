@@ -6,7 +6,7 @@
 <h1 align="center">
  About
 </h1>
-<p align="center"> This repository contains projects created/built to acquire practical DevOps skills</p>
+<p align="center"> This repository contains projects/exercises built to acquire practical DevOps skills</p>
 
 ## Python
 
