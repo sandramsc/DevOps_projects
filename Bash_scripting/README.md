@@ -1,9 +1,9 @@
 <!-- PROJECT TITLE -->
-  <h1 align="center">System Engineering & Devops</h1>
+  <h1 align="center">Bash scripting</h1>
 
 ## Application Description
 
-This repository contains programs written for the system engineering and DevOps track at [Holberton School](https://www.holbertonschool.com/).
+This repository contains Shell Scripts written in Bash written to gain knowledge and practice scripting.
 
 ## Technologies
 * Shell Scripts written in Bash 5.0.17(1).
