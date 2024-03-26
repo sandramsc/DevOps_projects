@@ -27,7 +27,5 @@ This repository contains Shell Scripts written in Bash written to gain knowledge
 | --------------- | -------------------------------------- |
 | Sandra Ashipala | https://www.linkedin.com/in/sandraashipala/ |
 
-## License
-[![GitLicense](https://img.shields.io/badge/License-MIT-lime.svg)](https://github.com/sandramsc/system_engineering-devops/blob/master/LICENSE.md)
 
 
