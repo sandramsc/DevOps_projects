@@ -10,7 +10,7 @@
 
 ## AWS
 
-<img align="right" src="./assets/aws.png" width="95" height="80" alt="AWS"> 
+<img align="right" src="./assets/aws.png" width="75" height="70" alt="AWS"> 
 
 
 <br>
