@@ -10,7 +10,7 @@
 
 ## AWS
 
-<img align="right" src="./assets/aws.png" width="85" height="80" alt="AWS"> 
+<img align="right" src="./assets/aws.png" width="95" height="80" alt="AWS"> 
 
 
 <br>
@@ -23,7 +23,7 @@
 
 ## Bash scripting
 
-<img align="right" src="./assets/shell_scripting.png" width="85" height="80" alt="shell_scripting"> 
+<img align="right" src="./assets/shell_scripting.png" width="95" height="80" alt="shell_scripting"> 
 
 
 <br>
