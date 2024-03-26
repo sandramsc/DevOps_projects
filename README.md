@@ -17,7 +17,7 @@
 
 ## Python
 
-<img align="right" src="./assets/python.png" width="85" height="80" alt="python"> 
+<img align="right" src="./assets/python.png" width="100" height="80" alt="python"> 
 
 <br>
 
@@ -30,7 +30,7 @@
 
 ## Golang
 
-<img align="right" src="./assets/golang.png" width="85" height="80" alt="golang"> 
+<img align="right" src="./assets/golang.png" width="5" height="80" alt="golang"> 
 
 
 <br>
