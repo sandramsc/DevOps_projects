@@ -2,7 +2,7 @@
   <h1 align="center">Golang Programming</h1>
 
 <div id="header" align="center">
-  <img src="./assets/golang.png" width="95" height="80"/>
+  <img src="./assets/golang.png" width="100" height="80" alt="golang"/>
 </div>
 
 ## Application Description
