@@ -10,27 +10,27 @@
 
 ## AWS
 
-<img align="right" src="./assets/aws.png" height="100" alt="AWS"> 
+<img align="right" src="./assets/aws.png" width="85" height="80" alt="AWS"> 
 
 
 <br>
 
 ## Python
 
-<img align="right" src="./assets/python.png" height="100" alt="python"> 
+<img align="right" src="./assets/python.png" width="85" height="80" alt="python"> 
 
 <br>
 
 ## Bash scripting
 
-<img align="right" src="./assets/shell_scripting.png" height="100" alt="shell_scripting"> 
+<img align="right" src="./assets/shell_scripting.png" width="85" height="80" alt="shell_scripting"> 
 
 
 <br>
 
 ## Golang
 
-<img align="right" src="./assets/golang.png" height="100" alt="golang"> 
+<img align="right" src="./assets/golang.png" width="85" height="80" alt="golang"> 
 
 
 <br>
