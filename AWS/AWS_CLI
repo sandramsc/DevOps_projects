@@ -1,0 +1,4 @@
+// Logging into AWS instance
+
+1. chmod 600
+2. ssh -i <path to private key> vm@IPaddress

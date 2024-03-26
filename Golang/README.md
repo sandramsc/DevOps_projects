@@ -12,7 +12,6 @@ This repository contains programs written for the purpose of gaining knowledge a
 ## Technologies
 * Golang
 
-
 ## Authors
 
 | Name            | Link                                   |
