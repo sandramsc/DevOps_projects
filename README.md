@@ -8,6 +8,13 @@
 </h1>
 <p align="center"> This repository contains projects/exercises built to acquire practical DevOps skills</p>
 
+## AWS
+
+<img align="right" src="./assets/aws.png" height="100" alt="AWS"> 
+
+
+<br>
+
 ## Python
 
 <img align="right" src="./assets/python.png" height="100" alt="python"> 
