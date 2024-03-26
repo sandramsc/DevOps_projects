@@ -17,7 +17,7 @@
 
 ## Python
 
-<img align="right" src="./assets/python.png" width="100" height="80" alt="python"> 
+<img align="right" src="./assets/python.png" width="75" height="80" alt="python"> 
 
 <br>
 
