@@ -23,14 +23,14 @@
 
 ## Bash scripting
 
-<img align="right" src="./assets/shell_scripting.png" width="95" height="80" alt="shell_scripting"> 
+<img align="right" src="./assets/shell_scripting.png" width="85" height="80" alt="shell_scripting"> 
 
 
 <br>
 
 ## Golang
 
-<img align="right" src="./assets/golang.png" width="100" height="80" alt="golang"> 
+<img align="right" src="./assets/golang.png" width="180" height="100" alt="golang"> 
 
 
 <br>
