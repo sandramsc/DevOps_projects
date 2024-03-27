@@ -1,5 +1,5 @@
 <!-- PROJECT TITLE -->
-  <h1 align="center">DevOps projects</h1>
+  <h1 align="center">DevOps</h1>
  <div id="header" align="center">
   <img src="./assets/devops.png" width="270"/>
 </div>
@@ -30,7 +30,7 @@
 
 ## Golang
 
-<img align="right" src="./assets/golang.png" width="180" height="80" alt="golang"> 
+<img align="right" src="./assets/golang.png" width="170" height="90" alt="golang"> 
 
 
 <br>
