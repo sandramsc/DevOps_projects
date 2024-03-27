@@ -1,5 +1,5 @@
 <!-- PROJECT TITLE -->
-  <h1 align="center">Golang Programming</h1>
+  <h1 align="center">Golang</h1>
 
 <div id="header" align="center">
   <img src="./assets/golang.png" width="180" height="100" alt="golang"/>
