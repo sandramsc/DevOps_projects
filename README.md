@@ -8,15 +8,29 @@
 </h1>
 <p align="center"> This repository contains projects/exercises built to acquire practical DevOps skills</p>
 
+## AWS
+
+<img align="right" src="./assets/aws.png" width="75" height="70" alt="AWS"> 
+
+
+<br>
+
 ## Python
 
-<img align="right" src="./assets/python.png" height="100" alt="python"> 
+<img align="right" src="./assets/python.png" width="75" height="80" alt="python"> 
 
 <br>
 
 ## Bash scripting
 
-<img align="right" src="./assets/shell_scripting.png" height="100" alt="shell_scripting"> 
+<img align="right" src="./assets/shell_scripting.png" width="85" height="80" alt="shell_scripting"> 
+
+
+<br>
+
+## Golang
+
+<img align="right" src="./assets/golang.png" width="180" height="100" alt="golang"> 
 
 
 <br>

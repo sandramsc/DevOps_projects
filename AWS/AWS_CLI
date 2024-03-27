@@ -1,4 +1,4 @@
-// Logging into AWS instance
+// Logging into an AWS instance from CLI
 
 1. chmod 600
 2. ssh -i <path to private key> vm@IPaddress
