@@ -30,7 +30,7 @@
 
 ## Golang
 
-<img align="right" src="./assets/golang.png" width="180" height="100" alt="golang"> 
+<img align="right" src="./assets/golang.png" width="180" height="80" alt="golang"> 
 
 
 <br>
